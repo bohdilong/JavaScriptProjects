@@ -1,1 +1,0 @@
-alert("Hello, I am Son of Anton.")
